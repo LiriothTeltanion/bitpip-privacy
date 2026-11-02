@@ -7,4 +7,6 @@ They exist so Bitpip's Google OAuth client can run in production with read-only 
 - Privacy: https://liriothteltanion.github.io/bitpip-privacy/privacy.html
 - Terms: https://liriothteltanion.github.io/bitpip-privacy/terms.html
 
+Built with AI-assisted tooling; I reviewed, tested and can explain every change.
+
 KC ✦ LT
